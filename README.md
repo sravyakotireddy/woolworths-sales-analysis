@@ -1,7 +1,13 @@
 # Woolworths Merchandise Sales Analysis
 
 ## Project Overview
-Analyzed Woolworths merchandise sales data using Excel to identify sales trends, product performance, and customer purchasing patterns.
+This project analyzes Woolworths merchandise sales data to identify sales trends, product performance, and customer purchasing behavior.
+
+## Objectives
+- Analyze sales performance
+- Identify top-selling products
+- Discover purchasing patterns
+- Support inventory management decisions
 
 ## Tools Used
 - Microsoft Excel
@@ -9,7 +15,12 @@ Analyzed Woolworths merchandise sales data using Excel to identify sales trends,
 - Data Analysis
 - Data Visualization
 
-## Key Insights
-- Identified top-performing products
-- Analyzed sales trends
-- Generated business recommendations for inventory management
+## Key Skills
+- Data Cleaning
+- Data Wrangling
+- Statistical Analysis
+- Business Intelligence
+- Reporting
+
+## Dataset
+Woolworths Merchandise Sales Dataset
